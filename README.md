@@ -12,7 +12,7 @@ tracking with TrackMate (author: Jean-Yves Tinevez)<br>
 	Spot detection (LoG, DoG), filter/convolution<br>
 	LAP problem and Hungarian algorithm<br>
 	
-3, Work with sample dataset to perform a 1st tracking<br>
+3, Work with simulated and sample dataset to perform tracking<br>
 	play and familiar with free parameters<br>
 	Frame linking max<br>
 	Frame gap<br>
