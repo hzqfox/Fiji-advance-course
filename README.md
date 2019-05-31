@@ -5,6 +5,7 @@ tracking with TrackMate (author: Jean-Yves Tinevez)
 
 1, tracking with ImageJ plugin TrackMate
 	(https://imagej.net/TrackMate)
+	
 	audience: finished basic Fiji course
 		a bit experience with image script editor/ programming
 2, Walk participants through baisc principle of tracking, and usage of TrackMate
