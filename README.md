@@ -27,7 +27,7 @@ tracking with TrackMate (author: Jean-Yves Tinevez)<br>
 Time table:<br>
 
 12:30 - 13:15	(presentation)<br>
-	- recap filter/convolution<br>
+\t	- recap filter/convolution<br>
 	- trackmate intro and basics
 13:15 - 14:00	(practice session)<br>
 	- basics of TrackMate:<br>
