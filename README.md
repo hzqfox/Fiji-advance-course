@@ -24,4 +24,19 @@ tracking with TrackMate (author: Jean-Yves Tinevez)<br>
 	using jython or groovy.<br>
 	  
 	
+Time table:<br>
 
+12:30 - 13:15	(presentation)<br>
+	- recap filter/convolution<br>
+	- trackmate intro and basics
+13:15 - 14:00	(practice session)<br>
+	- basics of TrackMate:<br>
+		spot detection and tracking with simple simulation data<br>
+14:00 - 14:30	(intro to practice session 2)<br>
+	- tweek cost matrix<br>
+	- practice session 2 intro.<br>
+14:30 - 15:00 coffee break<br>
+15:00 - 15:45	(practice session 2)<br>
+		tracking mitosis in multichannel fluorescent time-lapse dataset<br>
+15:45 - 17:00	(demo and practice session)<br>
+		scripting TrackMate<br>
