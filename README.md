@@ -1,9 +1,10 @@
 # Fiji-advance-course
 tracking with TrackMate (author: Jean-Yves Tinevez)
-https://imagej.net/TrackMate#Extensions
+
 
 
 1, tracking with ImageJ plugin TrackMate
+	(https://imagej.net/TrackMate)
 	audience: finished basic Fiji course
 		a bit experience with image script editor/ programming
 2, Walk participants through baisc principle of tracking, and usage of TrackMate
@@ -14,7 +15,7 @@ https://imagej.net/TrackMate#Extensions
 	  Frame linking max
 	  Frame gap
 	  Gap closing distance
-	  extra extension install
+	  extra extension install(https://imagej.net/TrackMate#Extensions)
 	
 4, Scripting TrackMate
 	  https://imagej.net/Scripting_TrackMate
